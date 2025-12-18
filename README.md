@@ -11,9 +11,9 @@ Links:
 
 This is all the individual projects from CS50's Harvard's class on Edx. This is the submissions without an answer key and require inspiraitons, cs concecpts and problem solving to create these projects. These ar emy own ideas of it and so it is ok for me to upload them, but not the ones that have a striahgt away answer. Ex: Projects without code templates vs. assignments that require a one way answer. -Thank you.
 
-### Textbook
-
-
+### Video and Final Project Links:
+- [CS50 Final Project Video Demonstration](https://youtu.be/f7c4AC6BHUo)
+- [VictoriaRaven/Translator-Language-Dictionary-App](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
 ### Contact
 
 Feel free to pm me (VictoriaRaven) if you want to use my code under a specific license and without needing to fork my repository.
